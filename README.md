@@ -48,3 +48,7 @@ Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目
 # NavigationServiceSystem
 导航服务系统
 >>>>>>> 8cbe77ca99540b1bfa099864fa1f7a06cdbef774
+>>>>>>>
+<img width="1594" height="704" alt="image" src="https://github.com/user-attachments/assets/a49a3fcc-fd88-40f6-a049-9b956b4fd06d" />
+
+<img width="1585" height="603" alt="image" src="https://github.com/user-attachments/assets/761a95d4-393f-4c59-894e-303061b1f484" />
